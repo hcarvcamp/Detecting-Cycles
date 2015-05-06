@@ -1,2 +1,0 @@
-# Detecting-Cycles
-Code Eval
